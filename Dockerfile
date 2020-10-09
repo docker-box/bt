@@ -1,4 +1,4 @@
-FROM centos
+FROM centos:latest
 
 # 作者
 LABEL maintainer="fizzday <fizzday@yeah.net>" \
